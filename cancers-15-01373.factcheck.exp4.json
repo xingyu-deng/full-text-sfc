@@ -1,0 +1,33 @@
+{
+  "claim": "Is Segmental Ureterectomy Associated with Inferior Survival for Localized Upper-Tract Urothelial Carcinoma of the Ureter Compared to Radical Nephroureterectomy?",
+  "summary": "The article investigates the overall survival (OS) of patients undergoing Segmental Ureterectomy (SU) compared to those undergoing Radical Nephroureterectomy (RNU) for localized upper-tract urothelial carcinoma. It concludes that SU is not associated with inferior survival compared to RNU.",
+  "section_name_map": {
+    "Section 1": "2. Materials and Methods",
+    "Section 1.1": "2.1. Data Source and Study Population",
+    "Section 1.2": "2.2. Exposure of Interest",
+    "Section 1.3": "2.3. Definition of the Variable of Interest",
+    "Section 1.4": "2.4. Covariates",
+    "Section 1.5": "2.5. Statistical Analyses",
+    "Section 2": "3. Results",
+    "Section 2.1": "3.1. Baseline Patient Characteristics and Predictors of Receiving Segmental Ureterectomy",
+    "Section 2.2": "3.2. Patient Characteristics and Survival Analyses",
+    "Section 3": "4. Discussion",
+    "Section 4": "Tables"
+  },
+  "evidences": [
+    {
+      "label": "support",
+      "evidence_text": "After adjusting for confounding, we found no difference in OS between patients undergoing SU compared to those who received RNU.",
+      "section_hint": "Section 3",
+      "original_section_name": "4. Discussion",
+      "rationale": "This statement supports the claim by indicating that there is no difference in overall survival between the two surgical approaches."
+    },
+    {
+      "label": "refute",
+      "evidence_text": "The PSOW HR for SU is 0.98 (95% CI, 0.93–1.04; *p* = 0.538).",
+      "section_hint": "Section 2.2",
+      "original_section_name": "3.2. Patient Characteristics and Survival Analyses",
+      "rationale": "This evidence suggests that the hazard ratio for SU indicates it does not confer inferior survival compared to RNU, thus refuting the claim."
+    }
+  ]
+}

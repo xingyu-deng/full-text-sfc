@@ -1,0 +1,30 @@
+{
+  "claim": "Is Segmental Ureterectomy Associated with Inferior Survival for Localized Upper-Tract Urothelial Carcinoma of the Ureter Compared to Radical Nephroureterectomy?",
+  "summary": "The article investigates the survival outcomes of patients with localized upper-tract urothelial carcinoma who underwent segmental ureterectomy (SU) compared to those who had radical nephroureterectomy (RNU). It concludes that SU is not associated with inferior survival compared to RNU in appropriately selected patients.",
+  "evidences": [
+    {
+      "label": "support",
+      "evidence_text": "Segmental ureterectomy is not associated with inferior survival compared to radical nephroureterectomy in upper-tract urothelial carcinoma patients.",
+      "section_hint": "Abstract",
+      "rationale": "This statement directly supports the claim by indicating that SU does not lead to worse survival outcomes compared to RNU."
+    },
+    {
+      "label": "support",
+      "evidence_text": "There was no statistically significant difference in OS between SU and RNU (HR, 0.98; 95% CI, 0.93–1.04; *p* = 0.538).",
+      "section_hint": "Results",
+      "rationale": "This evidence provides statistical backing that there is no significant difference in overall survival between the two surgical approaches."
+    },
+    {
+      "label": "support",
+      "evidence_text": "In appropriately selected UTUC of the ureter patients treated in a real-world setting, SU provides non-inferior OS compared to RNU.",
+      "section_hint": "Conclusions",
+      "rationale": "This conclusion reinforces the claim that SU does not result in inferior survival compared to RNU."
+    },
+    {
+      "label": "refute",
+      "evidence_text": "Several studies have reported higher rates of local tumor recurrence after the kidney-sparing approach, including with segmental ureterectomy.",
+      "section_hint": "Introduction",
+      "rationale": "This statement suggests that there may be concerns regarding the effectiveness of SU compared to RNU, indicating a potential for inferior outcomes."
+    }
+  ]
+}
